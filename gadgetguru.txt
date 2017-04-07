@@ -1,0 +1,189 @@
+RULES:
+1)Team of two members.
+2)First round of unlimited time duration.
+3)No using mobiles or other gadgets during the test.
+5)Top 5 teams qualify for the next round based on the scores of the first round.
+
+1)Introduced in 1993, what was Apple's first tablet computer?
+A)Darwin MessagePad
+B)Newton MessagePad*
+C)Einstein MessagePad
+D)Jobs MessagePad
+
+
+2)Which gadget is referred as "Bramble" in some parts of Scotland and England?
+A)IPad
+B)E-book Reader
+C)Blackberry*
+D)IPhone
+
+
+3)What is an individual speaker in a loudspeaker system called?
+A)Bracket
+B)Paper
+C)Coil
+D)Driver*
+
+
+4)For a cell phone, what is another name for "smart skin"?
+A)Battery
+B)Camera Window
+C)SIM Card
+D)Faceplate
+
+
+5) Quadro, Tegra, Tesla are product lines of which gadget maker?
+A)NVIDIA*
+B)Samsung
+C)Apple
+D)Sony
+
+6)Which company would you associate with the gadget "Boxee Box"?
+A)Hitachi
+B)D-Link*
+C)Toshiba
+D)Sony
+
+
+7)So-called HD sunglasses help you view the world in high definition by:
+A)Making standard movies appear to be 3-D
+B)Filtering the light differently*
+C)Improving your vision
+D)All of the above
+
+8)Who invented flexible photographic film?
+a)Linda Eastman
+b)George Eastman*
+C)Leonardo da Vinci
+d)Louis Daguerre
+
+9)When did the compact disc first appear on the market?
+a)1955
+b)1992
+c)1982*
+d)1989
+
+10)Which of these is not an early computer?
+a)SAGE
+b)UNIVAC
+c)ENIAC
+d)NASA*
+
+11)What is the hashtag (#) used for when posting Tweets to Twitter?*
+a)It is used to mark keywords. This helps when searching for Tweets on particular topics.
+b)It is used to indicate the username of the account from which the Tweet is being made.
+c)It is used for replies or mentions, to indicate the name of another user.
+d)It is used to indicate anger or annoyance. 
+
+12)What do Google Drive, EtherPad and Zoho have in common?
+a)They are all video sharing services.
+b)They are all owned by Rupert Murdoch’s News Corporation.
+c)They all enable several users to collaborate in creating and editing documents.*
+d)None of them support mobile devices. 
+
+13)WordPress, Typepad and Expression Engine can all be used for what? (There is more than one correct answer.)
+a)Blogging.*
+b)Word processing.
+c)Content management.*
+d)Peer-to-peer file sharing.
+
+14)What is the difference between Slideshare and Prezi? (There is more than one correct answer.)
+a)Prezi won’t work on Apple iOS devices (iPhone and iPad), Slideshare will.
+b)Slideshare has better support for audio.*
+c)You can upload PDF files to Prezi but not to Slideshare.
+d)Prezi uses pan and zoom, Slideshare is more sequential.* 
+
+15)Which of the following statements is true?
+a)Services that use Flash won’t work on mobile devices.
+b)It’s best to avoid services that use Flash because they won’t work on Apple iOS devices (e.g. iPhone and iPad).
+c)If you want good compatibility with a range of mobile devices, it’s best to avoid services which use Flash.*
+d)Most mobile devices support Flash.
+
+16)The cellular phone gets is name from:
+a)the division of a geographic area into cells .
+b)cellular membrane technology.
+c)grouping of different frequencies into cells. 
+d)due to the size of the gadget and its portability.
+
+17)Unlike CB radios, cell phones use two frequencies, one for talking and the other for listening.
+a)half-duplex communication. 
+b)multiple-duplex communication.
+c)full-duplex communication.*
+d)double duplex communication.
+
+18)The range served by each cell phone base station is about:
+a)5 square miles (13 square kilometers).
+b)10 square miles (26 square kilometers).*
+c)25 square miles (65 square kilometers).
+d)30 square miles (77 square kilometers).
+
+19) Your cell phone knows when you're roaming because:
+a)The Mobile Telephone Switching Office (MTSO) checks your SID code in its database.*
+b)The global positioning system (GPS) chip in your phone informs the cell towers of your location. 
+c)The cell towers triangulate your position, and your phone's processor compares it to your service area.
+d)The phone has an inbuilt chip to track your location all the time.
+
+20) This is the science of exchanging information wirelessly over significant distances.
+a. radiophonistics
+b. telecommunications*
+c. Marconiology
+
+
+21). One of the basic challenges in cell phone technology was figuring out how to allow several callers to send information simultaneously over a single communication channel. What is this concept called?
+a. synchronous signaling
+b. multiplexing*
+c. communication concurrence
+
+
+23) When did first generation (1G) cellular services become commercially available?
+a. late 1960s
+b. mid 1970s
+c. early 1980s*
+
+
+24). In the early 1990s in North America, a second generation (2G) of cellular services began to evolve when mobile carriers like Verizon deployed CDMA to multiplex up to 64 calls per channel. What does CDMA stand for?
+a. Code-Division Multiple Access*
+b. Channel-Division Managed Architecture
+
+
+25.) Around the same time, other mobile carriers like AT&T adopted a competing standard for multiplexing called GSM. What does GSM stand for?
+a. Global System for Mobile*
+b. Gateway Session Modulation
+
+
+26). Which Danish mathematician originally conceived the theory of traffic engineering, a discipline that attempts to make sure the number of failed calls is as close to zero as possible?
+a. Agner Erlang*
+b. Ole Worm
+
+
+27). To prevent a caller from thinking his connection has been lost during a long period of silence in a conversation, carriers use this type of program to generate background noise.
+a. comfort noise generator*
+b. fuzzing
+c. interference
+
+
+28). What do you call a wireless access point that improves cellular reception inside a home or office building?
+a. hoot-n-holler
+b. femtocell*
+
+
+29). ARPU, an industry acronym for the income generated by a cell phone subscriber, is the metric a carrier uses to evaluate whether or not all revenue-generating potential has been exploited. What does ARPU stand for?
+a. average revenue per user
+b. acquired remittance per uplink*
+
+
+30). What year was the first cell phone commercially available in the U.S.?
+a. 1975
+b. 1983*
+c. 1991
+
+
+31)Which of these wireless technologies could support users at ranges up to 30 miles?
+a. WiFi
+b. WiMAX*
+
+
+
+
+
+
